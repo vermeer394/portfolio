@@ -1,6 +1,6 @@
 .jumbotron{
 	padding-top: 6rem;
-	background-color: #b9e8d6;
+	height: 660px;
 }
 
 #project{
@@ -9,4 +9,9 @@
 
 section{
 	padding-top: 5rem;
+}
+
+/*Bagian Tulisan Nama & Keterangan pada Jumbotron*/
+.a2{
+	color: white;
 }
